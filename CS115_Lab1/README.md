@@ -1,7 +1,7 @@
-# CS115_Lab1
+# Halloween Graphics
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 115: Lab1 - Halloween Pictures Project<br>
+Halloween Graphics<br>
 Date:&emsp;&emsp;&emsp;&emsp;
 November 16, 2012<br>
 Authors:&emsp;&emsp;&nbsp;&nbsp;
