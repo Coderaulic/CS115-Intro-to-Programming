@@ -1,6 +1,6 @@
 # Intro-to-Programming
 
-Lab projects created in Intro to Programming course<br>
+Projects created in Intro to Programming course<br>
 
 - <b><a href="https://github.com/Coderaulic/Intro-to-Programming/tree/master/CS115_Lab0">
 Favorite Films</a></b>: A simple GUI program that displays classmate's favorite films
