@@ -1,13 +1,13 @@
-# CS115_Lab2
+# Holiday Movies and Music Store
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 115: Lab2 - Holiday Movies and Music Store<br>
+Holiday Movies and Music Store<br>
 Date:&emsp;&emsp;&emsp;&emsp;
 December 07, 2012<br>
 Authors:&emsp;&emsp;&nbsp;&nbsp;
-Ryu Muthui, Nasir Elmi, Jan Kruschewski, and Gil Chavez.<br>
+Ryu Muthui, Nasir Elmi, Jan Kruschewski, and Gil Chavez<br>
 Description:&emsp;
-A virtual shopping program with various holiday themed media items to buy.<br>
+A virtual shopping program with various holiday themed media items to buy<br>
 ===============================================================================<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![1](https://cloud.githubusercontent.com/assets/10789046/24240459/e9ef985e-0f6e-11e7-9e27-3b717c1b5cdf.jpg)<br>
