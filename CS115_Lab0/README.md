@@ -1,7 +1,7 @@
-# CS115_Lab0
+# Favorite Films
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 115: Lab0 - Favorite Films Project<br>
+Favorite Films<br>
 Date:&emsp;&emsp;&emsp;&emsp;
 October 25, 2012<br>
 Author:&emsp;&emsp;&emsp;
